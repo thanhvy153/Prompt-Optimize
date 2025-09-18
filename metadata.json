@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Optimizer",
+  "description": "An intuitive tool that transforms a simple prompt idea into two detailed, structured JSON prompts, optimized for generating high-quality images and videos using AI.",
+  "requestFramePermissions": []
+}
